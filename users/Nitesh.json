@@ -1,0 +1,12 @@
+{
+	"Name": "Nitesh",
+	"Age": 23,
+	"Contact": "7068528089",
+	"Company": "Remote",
+	"Address": {
+		"City": "Bengaluru",
+		"State": "Karnataka",
+		"Country": "India",
+		"PinCode": 273303
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"Name": "Keerthi",
+	"Age": 23,
+	"Contact": "7068528089",
+	"Company": "Tracxn",
+	"Address": {
+		"City": "Bengaluru",
+		"State": "Karnataka",
+		"Country": "India",
+		"PinCode": 273303
+	}
+}
